@@ -1,6 +1,8 @@
-[![MasterHead](https://raw.githubusercontent.com/swapnalshahil/swapnalshahil/master/gifs/coder.gif)](https://AkramRoumani.io)
+<a href="https://AkramRoumani.io">
+    <img src="https://raw.githubusercontent.com/swapnalshahil/swapnalshahil/master/gifs/coder.gif" width="1000" height="500">
+</a>
 <h1 align="center">Hi 👋, I'm Akram Roumani</h1>
-<h3 align="center">I'm a computer science student</h3>
+<h3 align="center">I'm a computer science engineering student</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **Qt, OpenGL, Vue.js**
